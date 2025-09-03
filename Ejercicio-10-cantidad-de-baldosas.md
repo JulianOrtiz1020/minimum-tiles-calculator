@@ -60,9 +60,9 @@ This program calculates how many square tiles, based on user input for tile side
 ## Example
 
 Enter the side length of the tile: 3  
-Enter the length of the area: 10  
-Enter the width of the area: 9  
-Minimum number of tiles required: 12
+Enter the length of the area: 16  
+Enter the width of the area: 23  
+Minimum number of tiles required: 48
 
 
 ---
